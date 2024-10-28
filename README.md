@@ -7,7 +7,9 @@
 ## 1. Introduction
 ### 1.1. Group members
 22127008 - Đặng Châu Anh
+
 22127014 - Nguyễn Kim Anh
+
 22127170 - Trần Dịu Huyền 
 ### 1.2. Project topic
 COVID-19 Dataset
