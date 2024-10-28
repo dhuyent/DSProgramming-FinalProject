@@ -15,4 +15,4 @@
 COVID-19 Dataset
 
 ## 2. Details
-[Access this Git link for more informaation](https://github.com/dhuyent/DSProgramming-FinalProject)
+[Access this Git link for more information...](https://github.com/dhuyent/DSProgramming-FinalProject)
